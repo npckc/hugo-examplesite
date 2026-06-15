@@ -1,0 +1,44 @@
+baseURL = 'https://hugo-examplesite.neocities.org/'
+languageCode = 'en-ca'
+title = 'example site made in hugo'
+theme = 'hugo-bearcub-main'
+copyright = "© example person"
+
+# disable smart quotes
+[markup.goldmark.extensions.typographer]
+  disable = false
+  apostrophe = '&apos;'
+  ellipsis = '&#46;&#46;&#46;'
+  emDash = '&mdash;'
+  enDash = '&ndash;'
+  rightDoubleQuote = '&quot;'
+  leftDoubleQuote = '&quot;'
+  rightSingleQuote = '&apos;'
+  leftSingleQuote = '&apos;'
+  rightAngleQuote = '&rsaquo;'
+  leftAngleQuote = '&lsaquo;'
+
+# bear cub-specific stuff
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "example site made in hugo"
+    languageName = "english"
+    LanguageCode = "en-CA"
+    contentDir = "content"
+    [languages.en.params]
+      madeWith = "made in [Bear Cub](https://github.com/clente/hugo-bearcub)"
+  [languages.ja]
+    title = "hugoで作ったサイト"
+    languageName = "日本語"
+    LanguageCode = "ja-JP"
+    contentDir = "content.ja"
+    [languages.ja.params]
+      madeWith = "[Bear Cub](https://github.com/clente/hugo-bearcub)で作られたサイト"
+
+[params]
+  description = "An example site made in Hugo hosted on Neocities."
+  dateFormat = "2006-01-02"
+  [params.author]
+    name = "example author"
