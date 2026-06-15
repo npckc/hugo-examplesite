@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on example site made in hugo</title>
+    <link>https://hugo-examplesite.neocities.org/tags/</link>
+    <description>Recent content in Tags on example site made in hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>© example person</copyright>
+    <lastBuildDate>Mon, 15 Jun 2026 13:05:01 +0900</lastBuildDate>
+    <atom:link href="https://hugo-examplesite.neocities.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exampletag</title>
+      <link>https://hugo-examplesite.neocities.org/tags/exampletag/</link>
+      <pubDate>Mon, 15 Jun 2026 13:05:01 +0900</pubDate>
+      <guid>https://hugo-examplesite.neocities.org/tags/exampletag/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>

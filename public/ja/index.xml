@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugoで作ったサイト</title>
+    <link>https://hugo-examplesite.neocities.org/ja/</link>
+    <description>Recent content on hugoで作ったサイト</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <copyright>© example person</copyright>
+    <lastBuildDate>Mon, 15 Jun 2026 13:05:01 +0900</lastBuildDate>
+    <atom:link href="https://hugo-examplesite.neocities.org/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>これは投稿です</title>
+      <link>https://hugo-examplesite.neocities.org/ja/blog/post/</link>
+      <pubDate>Mon, 15 Jun 2026 13:05:01 +0900</pubDate>
+      <guid>https://hugo-examplesite.neocities.org/ja/blog/post/</guid>
+      <description>&lt;p&gt;投稿です。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;スチームのウィジェットを埋め込むショートコードです↴&lt;/p&gt;&#xA;&lt;p&gt;&lt;iframe src=&#34;https://store.steampowered.com/widget/1688580&#34; frameborder=&#34;0&#34; width=&#34;100%&#34;&#xA;     height=&#34;190&#34;&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;strong&gt;{{&amp;lt; steam 1688580 &amp;gt;}}&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;画像です↴&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hugo-examplesite.neocities.org/img/image.png&#34; alt=&#34;笑っているキャラの下にi&amp;#39;m an img&#34; title=&#34;笑っているキャラの下にi&amp;#39;m an img&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;!![笑っているキャラの下にi&amp;apos;m an img](/img/image.png &amp;quot;笑っているキャラの下にi&amp;apos;m an img&amp;quot;)&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>投稿です。</p>
+<hr>
+<p>スチームのウィジェットを埋め込むショートコードです↴</p>
+<p><iframe src="https://store.steampowered.com/widget/1688580" frameborder="0" width="100%"
+     height="190"></iframe>
+
+<strong>{{&lt; steam 1688580 &gt;}}</strong></p>
+<hr>
+<p>画像です↴</p>
+<p><img src="/img/image.png" alt="笑っているキャラの下にi&#39;m an img" title="笑っているキャラの下にi&#39;m an img"></p>
+<p><strong>!![笑っているキャラの下にi&apos;m an img](/img/image.png &quot;笑っているキャラの下にi&apos;m an img&quot;)</strong></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

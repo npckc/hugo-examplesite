@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Exampletag on example site made in hugo</title>
+    <link>https://hugo-examplesite.neocities.org/tags/exampletag/</link>
+    <description>Recent content in Exampletag on example site made in hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>© example person</copyright>
+    <lastBuildDate>Mon, 15 Jun 2026 13:05:01 +0900</lastBuildDate>
+    <atom:link href="https://hugo-examplesite.neocities.org/tags/exampletag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>this is a post</title>
+      <link>https://hugo-examplesite.neocities.org/blog/post/</link>
+      <pubDate>Mon, 15 Jun 2026 13:05:01 +0900</pubDate>
+      <guid>https://hugo-examplesite.neocities.org/blog/post/</guid>
+      <description>&lt;p&gt;this is a post.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;this is a shortcode that embeds a steam widget↴&lt;/p&gt;&#xA;&lt;p&gt;&lt;iframe src=&#34;https://store.steampowered.com/widget/1688580&#34; frameborder=&#34;0&#34; width=&#34;100%&#34;&#xA;     height=&#34;190&#34;&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;strong&gt;{{&amp;lt; steam 1688580 &amp;gt;}}&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;this is an image↴&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hugo-examplesite.neocities.org/img/image.png&#34; alt=&#34;a smiling lil guy with the text &amp;#39;i&amp;#39;m an img&amp;#39; under them&#34; title=&#34;a smiling lil guy with the text &amp;#39;i&amp;#39;m an img&amp;#39; under them&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;![a smiling lil guy with the text &amp;apos;i&amp;apos;m an img&amp;apos; under them&#xA;](/img/image.png &amp;quot;a smiling lil guy with the text &amp;apos;i&amp;apos;m an img&amp;apos; under them&amp;quot;)&lt;/strong&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>this is a post.</p>
+<hr>
+<p>this is a shortcode that embeds a steam widget↴</p>
+<p><iframe src="https://store.steampowered.com/widget/1688580" frameborder="0" width="100%"
+     height="190"></iframe>
+
+<strong>{{&lt; steam 1688580 &gt;}}</strong></p>
+<hr>
+<p>this is an image↴</p>
+<p><img src="/img/image.png" alt="a smiling lil guy with the text &#39;i&#39;m an img&#39; under them" title="a smiling lil guy with the text &#39;i&#39;m an img&#39; under them"></p>
+<p><strong>![a smiling lil guy with the text &apos;i&apos;m an img&apos; under them
+](/img/image.png &quot;a smiling lil guy with the text &apos;i&apos;m an img&apos; under them&quot;)</strong></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
